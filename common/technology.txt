@@ -7,57 +7,80 @@
 
 
 groups = {
+	#european (chinese)
 	western = {
+		modifier = 0.6
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+	}
+	#nomad_group (nomad_group)
+	eastern = {
+		modifier = 0.75
+		start_level = 3
+		cav_to_inf_ratio = 1.0
+	}
+	#persia (indian)
+	ottoman = {
+		modifier = 0.5
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+	} 
+	#persia (indian)
+	muslim = {
+		modifier = 0.5
+		start_level = 2
+		cav_to_inf_ratio = 0.5
+	} 
+	#indian (muslim)
+	indian = {
+		modifier = 0.40
+		start_level = 3
+		cav_to_inf_ratio = 0.8
+	}
+	#eastern (western)
+	chinese = {
 		modifier = 0
 		start_level = 3
 		cav_to_inf_ratio = 0.5
 		trade_company = yes
 	}
-	eastern = {
+	#northern (eastern)
+	northern = {
 		modifier = 0.20
 		start_level = 3
 		cav_to_inf_ratio = 0.6
 	}
-	ottoman = {
+	#pacific (ottoman)
+	pacific = {
 		modifier = 0.25
 		start_level = 3
 		cav_to_inf_ratio = 0.5
 	}
-	muslim = {
-		modifier = 0.40
-		start_level = 3
-		cav_to_inf_ratio = 0.8
-	}
-	indian = {
-		modifier = 0.5
-		start_level = 2
-		cav_to_inf_ratio = 0.5
-	}
-	chinese = {
-		modifier = 0.6
-		start_level = 2
-		cav_to_inf_ratio = 0.5
-	}
+	#nomad_group (nomad_group)
 	nomad_group = {
 		modifier = 0.75
 		start_level = 3
 		cav_to_inf_ratio = 1.0
 	}
+	#sub_saharan (sub_saharan)
 	sub_saharan = {
 		modifier = 1.0
 		start_level = 1
 		cav_to_inf_ratio = 0.5
 	}
+	#north_american (north_american)
 	north_american = {
 		modifier = 2.5
 		start_level = 1
 		cav_to_inf_ratio = 0.5
 	}
+	#mesoamerican (mesoamerican)
 	mesoamerican = {
 		modifier = 1.5
 		start_level = 1
 		cav_to_inf_ratio = 0.5
 	}
+	#south_american (south_american)
 	south_american = {
 		modifier = 1.5
 		start_level = 1
