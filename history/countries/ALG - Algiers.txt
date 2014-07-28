@@ -1,0 +1,300 @@
+government = despotic_monarchy 
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 2
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = muslim
+religion = sunni
+primary_culture = berber
+capital = 338 # Al-Djazair
+
+
+1395.1.1 = {
+	monarch = {
+		name = "Muhammad III"
+		dynasty = "Zayyanid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_piety = 0.35
+}
+
+1400.1.1 = {
+	monarch = {
+		name = "Abdallah I"
+		dynasty = "Zayyanid"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1402.1.1 = {
+	monarch = {
+		name = "Muhammad IV"
+		dynasty = "Zayyanid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1411.1.1 = {
+	monarch = {
+		name = "Abd al-Wahid"
+		dynasty = "Zayyanid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1424.1.1 = {
+	monarch = {
+		name = "Muhammad V"
+		dynasty = "Zayyanid"
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+}
+
+1430.7.27 = {
+	monarch = {
+		name = "Ahmad II"
+		dynasty = "Zayyanid"
+		adm = 4
+		dip = 1
+		mil = 2
+		leader = {	name = "Ahmad II"	type = general	rank = 0	fire = 3	shock = 2	manuever = 3	siege = 0 }
+	}
+}
+
+1462.2.2 = {
+	monarch = {
+		name = "Muhammad V"
+		dynasty = "Zayyanid"
+		adm = 0
+		dip = 3
+		mil = 0
+	}
+}
+
+1468.1.1 = {
+	monarch = {
+		name = "Muhammad VI"
+		dynasty = "Zayyanid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1505.1.1 = {
+	monarch = {
+		name = "Muhammad VII"
+		dynasty = "Zayyanid"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1505.1.1 = { leader = {	name = "Barberus"	type = admiral	rank = 0	fire = 4	shock = 5	manuever = 5	siege = 0	death_date = 1530.1.1 } }
+
+
+1516.1.1 = {
+	monarch = {
+		name = "Mûsa III"
+		dynasty = "Zayyanid"
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1527.1.1 = {
+	monarch = {
+		name = "'Abd Allâh III"
+		dynasty = "Zayyanid"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+1540.1.1 = {
+	monarch = {
+		name = "Ahmad III"
+		dynasty = "Zayyanid"
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1550.1.1 = {
+	monarch = {
+		name = "al-Hasan"
+		dynasty = "Zayyanid"
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
+
+1710.1.1 = {
+	monarch = {
+		name = "'Ali I"
+		dynasty = "Muhammadid"
+		adm = 3
+		dip = 4
+		mil = 5
+		leader = {	name = "'Ali I"                	type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0}
+	}
+}
+
+1718.4.5 = {
+	monarch = {
+		name = "Muhammad I"
+		dynasty = "Muhammadid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1724.5.19 = {
+	monarch = {
+		name = "'Abdi"
+		dynasty = "Muhammadid"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1731.1.1 = {
+	monarch = {
+		name = "Ibrâhîm I"
+		dynasty = "Muhammadid"
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+}
+
+1745.11.3 = {
+	monarch = {
+		name = "Ibrâhîm II"
+		dynasty = "Muhammadid"
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+}
+
+1748.2.2 = {
+	monarch = {
+		name = "Muhammad II"
+		dynasty = "Muhammadid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1754.12.13 = {
+	monarch = {
+		name = "'Alî II"
+		dynasty = "Muhammadid"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1766.2.2 = {
+	monarch = {
+		name = "Muhammad III"
+		dynasty = "Muhammadid"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+
+1791.7.23 = {
+	monarch = {
+		name = "Hasan"
+		dynasty = "Muhammadid"
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+1798.6.2 = {
+	monarch = {
+		name = "Mustafa"
+		dynasty = "Muhammadid"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+
+1805.7.2 = {
+	monarch = {
+		name = "Ahmed"
+		dynasty = "Muhammadid"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1808.11.16 = {
+	monarch = {
+		name = "'Alî III"
+		dynasty = "Muhammadid"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+
+1815.4.4 = {
+	monarch = {
+		name = "'Umar"
+		dynasty = "Muhammadid"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1817.5.3 = {
+	monarch = {
+		name = "'Alî IV"
+		dynasty = "Muhammadid"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1818.3.3 = {
+	monarch = {
+		name = "Husain III"
+		dynasty = "Muhammadid"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
