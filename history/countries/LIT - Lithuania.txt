@@ -10,7 +10,7 @@ mercantilism = 0.1
 primary_culture = lithuanian
 add_accepted_culture = polish
 religion = catholic
-technology_group = eastern
+technology_group = nomad_group
 historical_friend = POL
 capital = 272 # Vilnius
 

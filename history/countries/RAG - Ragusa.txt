@@ -9,7 +9,7 @@ mercantilism = 0.2
 #serfdom_freesubjects = -2
 primary_culture = croatian
 religion = catholic
-technology_group = eastern
+technology_group = nomad_group
 capital = 137	# Ragusa
 
 

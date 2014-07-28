@@ -9,7 +9,7 @@ mercantilism = 0.25
 #serfdom_freesubjects = -2
 primary_culture = russian
 religion = orthodox
-technology_group = eastern
+technology_group = nomad_group
 historical_rival = MOS
 capital = 310	# Novgorod
 

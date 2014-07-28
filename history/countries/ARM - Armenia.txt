@@ -9,5 +9,5 @@ mercantilism = 0.1
 #serfdom_freesubjects = -5
 primary_culture = armenian
 religion = coptic
-technology_group = eastern
+technology_group = western
 capital = 419	# Yerevan

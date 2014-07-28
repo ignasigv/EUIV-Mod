@@ -10,7 +10,7 @@ mercantilism = 0.1
 primary_culture = andalucian
 religion = sunni
 add_accepted_culture = berber
-technology_group = muslim
+technology_group = western
 capital = 223	# Granada
 
 

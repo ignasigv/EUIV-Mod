@@ -9,5 +9,5 @@ mercantilism = 0.1
 #serfdom_freesubjects = -3
 primary_culture = byelorussian
 religion = orthodox
-technology_group = eastern
+technology_group = nomad_group
 capital = 275	# Polotsk

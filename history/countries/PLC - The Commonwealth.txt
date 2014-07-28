@@ -2,7 +2,7 @@ government = elective_monarchy
 mercantilism = 0.1
 primary_culture = polish
 religion = catholic
-technology_group = eastern
+technology_group = nomad_group
 capital = 262 # Krakow
 
 1572.1.1 = { leader = {	name = "Krzysztof Radziwill"   	type = general	rank = 2	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1603.11.20 } }

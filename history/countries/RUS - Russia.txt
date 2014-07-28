@@ -10,8 +10,8 @@ mercantilism = 0.1
 primary_culture = russian
 culture_group_union = east_slavic
 religion = orthodox
-technology_group = eastern
-unit_type = eastern
+technology_group = nomad_group
+unit_type = nomad_group
 capital = 295 # Moskva
 
 1462.1.1 = {

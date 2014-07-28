@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -1
 primary_culture = greek
 religion = orthodox
-technology_group = eastern
+technology_group = western
 capital = 330	# Trebizond
 
 

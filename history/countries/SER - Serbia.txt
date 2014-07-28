@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -5
 primary_culture = serbian
 religion = orthodox
-technology_group = eastern
+technology_group = nomad_group
 capital = 141	# Beograd
 
 

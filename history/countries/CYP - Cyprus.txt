@@ -10,7 +10,7 @@ mercantilism = 0.1
 primary_culture = cosmopolitan_french
 add_accepted_culture = greek
 religion = catholic
-technology_group = eastern
+technology_group = muslim
 capital = 321	# Nicosia
 
 1398.1.1 = {

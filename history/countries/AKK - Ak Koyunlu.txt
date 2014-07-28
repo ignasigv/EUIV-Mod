@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -5
 primary_culture = azerbadjani
 religion = sunni
-technology_group = nomad_group
+technology_group = muslim
 capital = 418
 
 1396.1.1 = {

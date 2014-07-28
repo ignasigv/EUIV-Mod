@@ -3,7 +3,7 @@ mercantilism = 0.1
 primary_culture = greek
 culture_group_union = byzantine
 religion = orthodox
-technology_group = eastern
+technology_group = western
 historical_rival = TUR
 capital = 151 # Constantinople
 

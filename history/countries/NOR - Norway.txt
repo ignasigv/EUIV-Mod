@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = 2
 primary_culture = norwegian
 religion = catholic
-technology_group = western
+technology_group = nomad_group
 historical_friend = DAN
 capital = 17 #Akershus
 

@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -2
 primary_culture = maghreb_arabic
 religion = sunni
-technology_group = muslim
+technology_group = western
 capital = 344 # Marrakech
 
 

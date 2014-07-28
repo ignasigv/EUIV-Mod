@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -1
 primary_culture = turkish
 religion = sunni
-technology_group = ottoman
+technology_group = muslim
 capital = 327	# Adana
 
 1383.1.1 = {

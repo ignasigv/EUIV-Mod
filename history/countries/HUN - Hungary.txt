@@ -10,7 +10,7 @@ mercantilism = 0.1
 primary_culture = hungarian
 add_accepted_culture = croatian
 religion = catholic
-technology_group = eastern
+technology_group = nomad_group
 capital = 153 # Buda
 
 

@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -5
 primary_culture = georgian
 religion = orthodox
-technology_group = eastern
+technology_group = muslim
 capital = 423 # T'bilisi
 
 

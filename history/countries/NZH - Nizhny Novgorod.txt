@@ -11,7 +11,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -5
 primary_culture = russian
 religion = orthodox
-technology_group = eastern
+technology_group = nomad_group
 capital = 306	# Nizhny Novgorod
 
 1350.1.1 = {

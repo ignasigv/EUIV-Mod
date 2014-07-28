@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -4
 primary_culture = polish
 religion = catholic
-technology_group = eastern
+technology_group = nomad_group
 capital = 262	# Krakow
 
 1530.1.1 = { government = administrative_monarchy }
